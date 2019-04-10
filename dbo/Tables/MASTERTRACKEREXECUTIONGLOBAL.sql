@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[MASTERTRACKEREXECUTIONGLOBAL] (
+    [id]         BIGINT IDENTITY (1, 1) NOT NULL,
+    [dummyvalue] BIGINT NULL
+);
+

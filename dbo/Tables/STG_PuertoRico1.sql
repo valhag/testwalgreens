@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[STG_PuertoRico1] (
+    [row_number]   INT             NULL,
+    [initiative]   NVARCHAR (500)  NULL,
+    [media_type]   NVARCHAR (500)  NULL,
+    [lawson]       NVARCHAR (500)  NULL,
+    [media_lawson] NVARCHAR (500)  NULL,
+    [sep]          NVARCHAR (500)  NULL,
+    [oct]          NVARCHAR (500)  NULL,
+    [nov]          NVARCHAR (500)  NULL,
+    [dec]          NVARCHAR (500)  NULL,
+    [jan]          NVARCHAR (500)  NULL,
+    [feb]          NVARCHAR (500)  NULL,
+    [mar]          NVARCHAR (500)  NULL,
+    [apr]          NVARCHAR (500)  NULL,
+    [may]          NVARCHAR (500)  NULL,
+    [jun]          NVARCHAR (500)  NULL,
+    [jul]          NVARCHAR (500)  NULL,
+    [aug]          NVARCHAR (500)  NULL,
+    [filename]     NVARCHAR (500)  NULL,
+    [directory]    NVARCHAR (500)  NULL,
+    [dt_created]   DATETIME        NULL,
+    [dt_updated]   DATETIME        NULL,
+    [dt_filename]  NVARCHAR (255)  NULL,
+    [sept]         NUMERIC (13, 4) NULL
+);
+
