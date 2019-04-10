@@ -1,4 +1,4 @@
-﻿--drop function udf_dimdate fdgfdgfd
+﻿--drop function udf_dimdate 
 
 
 CREATE FUNCTION dbo.udf_dimdate(@CURRENTMONTH INT
